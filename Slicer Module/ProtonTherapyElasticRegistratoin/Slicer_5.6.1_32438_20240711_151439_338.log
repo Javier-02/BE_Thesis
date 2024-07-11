@@ -1,0 +1,33 @@
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Session start time .......: 20240711_151439
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Slicer version ...........: 5.6.1 (revision 32438 / 117ce5f) win-amd64 - installed release
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Operating system .........: Windows /  Professional / (Build 19045, Code Page 65001) - 64-bit
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Memory ...................: 16289 MB physical, 37793 MB virtual
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - CPU ......................: AuthenticAMD AMD Ryzen 5 5600X 6-Core Processor             , 12 cores, 12 logical processors
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - VTK configuration ........: OpenGL2 rendering, TBB threading
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Qt configuration .........: version 5.15.2, with SSL, requested OpenGL 3.2 (compatibility profile)
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Internationalization .....: disabled, language=
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Developer mode ...........: enabled
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Application path .........: C:/Users/Javito/AppData/Local/slicer.org/Slicer 5.6.1/bin
+[DEBUG][Qt] 11.07.2024 15:14:39 [] (unknown:0) - Additional module paths ..: C:/Users/Javito/TFG/Updated TFG, C:/Users/Javito/TFG/TFG-2.0/Slicer Module\RegistratioProtontherapy\ElasticRegistration, C:/Users/Javito/TFG/TFG-2.0/Slicer Module
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\__init__.py:369) - matplotlib data path: C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\mpl-data
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\__init__.py:369) - CONFIGDIR=C:\Users\Javito\.matplotlib
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\__init__.py:1537) - interactive is False
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\__init__.py:1538) - platform is win32
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\__init__.py:369) - CACHEDIR=C:\Users\Javito\.matplotlib
+[DEBUG][Python] 11.07.2024 15:14:43 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Python\Lib\site-packages\matplotlib\font_manager.py:1577) - Using fontManager instance from C:\Users\Javito\.matplotlib\fontlist-v390.json
+[CRITICAL][Stream] 11.07.2024 15:14:43 [] (unknown:0) - RuntimeError: qSlicerScriptedLoadableModule::setPythonSource - Failed to load scripted loadable module: class Pseudo_CT_Plan_CT_RegistrationModule was not found in file C:/Users/Javito/TFG/Updated TFG/Pseudo_CT_Plan_CT_RegistrationModule.py
+[CRITICAL][Qt] 11.07.2024 15:14:43 [] (unknown:0) - Fail to instantiate module  "Pseudo_CT_Plan_CT_RegistrationModule"
+[CRITICAL][Qt] 11.07.2024 15:14:43 [] (unknown:0) - The following modules failed to be instantiated:
+[CRITICAL][Qt] 11.07.2024 15:14:43 [] (unknown:0) -    Pseudo_CT_Plan_CT_RegistrationModule
+[DEBUG][Python] 11.07.2024 15:14:45 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Slicer-5.6\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:39) - Scripted subject hierarchy plugin registered: SegmentEditor
+[DEBUG][Python] 11.07.2024 15:14:45 [Python] (C:\Users\Javito\AppData\Local\slicer.org\Slicer 5.6.1\lib\Slicer-5.6\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:39) - Scripted subject hierarchy plugin registered: SegmentStatistics
+[DEBUG][Qt] 11.07.2024 15:14:45 [] (unknown:0) - Switch to module:  "Welcome"
+[DEBUG][Qt] 11.07.2024 15:19:31 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/syntheticCT/sub-ADAPTAI-056_pair_000_CT_synthesized.nii" "[3.08s]"
+[DEBUG][Qt] 11.07.2024 15:19:40 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/syntheticCT/sub-ADAPTAI-058_pair_000_CT_synthesized.nii" "[2.80s]"
+[DEBUG][Qt] 11.07.2024 15:19:50 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/syntheticCT/sub-ADAPTAI-053_pair_004_CT_synthesized.nii" "[3.53s]"
+[DEBUG][Qt] 11.07.2024 15:20:30 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/planCT/053_CT.nii" "[1.56s]"
+[DEBUG][Qt] 11.07.2024 15:20:49 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/weekCT/053_004_CT.nii" "[1.44s]"
+[DEBUG][Qt] 11.07.2024 17:31:20 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/Deformation_field/warp_054_001.nii" "[0.04s]"
+[DEBUG][Qt] 11.07.2024 17:31:29 [] (unknown:0) - "Volume" Reader has successfully read the file "Z:/MATERIA_OSCURA/TFGs/2020_JavierVilloldo/002-DATA/Deformation_field/warp_054_002.nii" "[0.03s]"
+[DEBUG][Qt] 11.07.2024 17:31:34 [] (unknown:0) - Switch to module:  ""
+[WARNING][Qt] 11.07.2024 17:31:34 [] (unknown:0) - External WM_DESTROY received for  QWidgetWindow(0x1eb7a6fcc10, name="qSlicerDataDialogWindow") , parent:  QWindow(0x0) , transient parent:  QWindow(0x0)
